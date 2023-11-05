@@ -1,0 +1,7 @@
+.productive-btn:hover button {
+  color: #fff;
+}
+
+.productive-btn:hover span img {
+  filter: brightness(0) invert(1);
+}
